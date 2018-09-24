@@ -1,4 +1,4 @@
 result/plots
 result/data/*.data
 log*
-#!log01
+!log01
